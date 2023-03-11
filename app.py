@@ -1,5 +1,5 @@
 import streamlit as st
-
+import sklearn
 st.title("GIẢI PHƯƠNG TRÌNH BẬC NHẤT")
 a = st.number_input('Tham số a')
 b = st.number_input('Tham số b')
